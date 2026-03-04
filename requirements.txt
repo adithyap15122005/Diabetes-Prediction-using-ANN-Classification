@@ -1,9 +1,10 @@
 tensorflow==2.20.0
+streamlit>=1.32
 pandas
 numpy
-streamlit
-matplotlib
 scikit-learn
+matplotlib
 tensorboard
+
 
 
