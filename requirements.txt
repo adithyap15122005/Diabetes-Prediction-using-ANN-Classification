@@ -4,5 +4,6 @@ numpy
 streamlit
 matplotlib
 scikit-learn
-
 tensorboard
+protobuf==3.20.3
+
